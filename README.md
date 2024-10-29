@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,git,github,java,php,postman,react,spring,unity,vscode,nodejs,mongodb,mysql,firebase,express,discord)](https://skillicons.dev)
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
